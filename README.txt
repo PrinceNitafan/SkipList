@@ -19,6 +19,9 @@ by Prince.
 Functions 'listHeads' 'makeNewLevelList', 'printOneList', 'print', 
 'find', 'findWithTrail' are provided by the staff of SFU CMPT 225.
 
+File SkipList.h and skeleton class SkipList was provided by staff 
+of SFU CMPT 225, but was further contributed by Prince.
+
 Known Bugs
 ----------
 N/A
